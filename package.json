@@ -1,0 +1,19 @@
+{
+  "name": "minecraft-external-commands",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "unnamedDE <admin@unnamedDE.tk> (https://unnamedde.tk/)",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^3.3.0",
+    "dotenv": "^8.2.0",
+    "opn": "^6.0.0"
+  },
+  "devDependencies": {
+    "electron": "^6.1.3"
+  }
+}
